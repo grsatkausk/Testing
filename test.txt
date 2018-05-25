@@ -2,5 +2,7 @@
 
 bandome pildyti README.md
 
+nuotoliniai pakeitimai
 
 pakeiciame faila per GitHub.com
+
