@@ -2,5 +2,9 @@
 
 bandome pildyti README.md
 
+Lokalus pakeitimai
 
 pakeiciame faila per GitHub.com
+
+
+
