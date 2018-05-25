@@ -2,3 +2,5 @@
 
 bandome pildyti README.md
 
+
+pakeiciame faila per GitHub.com
